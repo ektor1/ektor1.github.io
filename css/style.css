@@ -1,0 +1,44 @@
+
+.title {
+    border-bottom: 0.6px solid #999;
+}
+
+.title p {
+    font-size: 11.5px;
+    color:#999;
+}
+
+.content-area {
+    max-width: 500px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+}
+
+body {
+    font-family: Arial;
+    font-size: 13px;
+    }
+
+.menu {
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 250px;
+    float: left;
+}
+
+.menu li a {
+    display: inline-block;
+    color: #0864c7;
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 0.5px hidden;
+    margin-top: 2px;
+    }
+
+.menu li a:hover {
+    background-color: #ccddff;
+    transition: 0.3s;
+}
